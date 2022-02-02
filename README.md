@@ -1,4 +1,4 @@
-# jslogin
+# JavaScript & HTML Login Guide
 This Javascript Login's You With Your Password And Username Just Using HTML And JavaScript. Note: The Javascript Can Be Cracked Easily
 
 Variables:
