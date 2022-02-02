@@ -22,3 +22,8 @@ I Made A Test Website Using Vercel.com For You Guys To Test
 Website: https://jslogin.vercel.app
 username is: `admin`
 Password Is: `thispassword` "OR" `thispasscode`
+
+-------------------------------------------------------------------------------------
+# Issues
+**Issue Name**                        **Status**
+1. IPShow On ipify Doesn't Work
