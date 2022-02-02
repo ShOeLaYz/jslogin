@@ -25,5 +25,8 @@ Password Is: `thispassword` "OR" `thispasscode`
 
 -------------------------------------------------------------------------------------
 # Issues
-**Issue Name**                        **Status**
-1. IPShow On ipify Doesn't Work
+**Issue Name** ----------------------------**Status**
+1. IPShow On ipify Doesn't Work   -------  Not Fixed Yet.
+2. Vulnerable To Hacks ------------------  Fix Not Found Yet.
+
+If Any Bugs Or Issues Found Please Message Me On Twitter https://twitter.com/notshoelaze
