@@ -11,5 +11,5 @@ thispasscode = Please Change This To Your Specified Passcode
 ------------------------------------------------------------------------------------
 # Login Without Editing A Single Thing
 
-Usually The Username is: admin
-Password Is: thispassword "OR" thispasscode
+Usually The Username is: `admin`
+Password Is: `thispassword` "OR" `thispasscode`
