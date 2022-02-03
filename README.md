@@ -20,8 +20,8 @@ Password Is: `thispassword` "OR" `thispasscode`
 I Made A Test Website Using Vercel.com For You Guys To Test
 
 Website: https://jslogin.vercel.app
-username is: `admin`
-Password Is: `thispassword` "OR" `thispasscode`
+username is: `admin` "OR" `Sam Adams`
+Password Is: `gititup` "OR" `tcool!`
 
 -------------------------------------------------------------------------------------
 # Issues
